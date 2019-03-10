@@ -1,0 +1,16 @@
+{
+  "streams": [
+    {
+      "title": "Yo",
+      "description": "How's goin?",
+      "userId": "109351385571193107987",
+      "id": 1
+    },
+    {
+      "title": "I will be a billionaier",
+      "description": "You can do that!",
+      "userId": "109351385571193107987",
+      "id": 2
+    }
+  ]
+}
